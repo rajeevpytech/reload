@@ -1,0 +1,6 @@
+{
+  "name": "RELOAD CASUAL",
+  "description": "Men's Luxury Fashion & Streetwear shopping app with curated seasonal collections, lookbooks, and seamless cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
